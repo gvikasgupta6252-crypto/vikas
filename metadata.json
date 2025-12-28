@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Rakesh Grocery & General Store",
+  "description": "A comprehensive grocery e-commerce platform with smart search, order management, and WhatsApp integration for local businesses.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
